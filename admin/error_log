@@ -1,0 +1,11 @@
+[28-Feb-2024 14:27:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'js', new Date());
+
+  gtag('config', 'G-P7LTNQJK58');
+</script>', `ScriptEx...' at line 1 in /home/g0g5zk6aakb4/public_html/admin/Controler/informacoessite/informacoessiteControler.php:126
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/admin/Controler/informacoessite/informacoessiteControler.php(126): PDOStatement->execute()
+#1 /home/g0g5zk6aakb4/public_html/admin/View/informacoessite/informacoessite.php(113): Controler\informacoessite\informacoessiteControler::UpdateinformacoessiteDB()
+#2 /home/g0g5zk6aakb4/public_html/admin/src/ControlerView/ViewControler.php(50): include('/home/g0g5zk6aa...')
+#3 /home/g0g5zk6aakb4/public_html/admin/index.php(147): src\ControlerView\View->Renderizar()
+#4 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/admin/Controler/informacoessite/informacoessiteControler.php on line 126

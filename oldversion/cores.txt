@@ -1,0 +1,9 @@
+#6a6a6a //cinza1
+#f2cb05 // amarelo1 
+#f2de77 // amarelo2
+#f2b705 // amarelo3
+#f2f2f2 // Branco
+#737373 //cinza2
+#f2f1e4 //claroamarelo1
+#f2ebc4 //claroamarelo2
+#0d0d0d //preto

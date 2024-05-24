@@ -1,0 +1,127 @@
+[28-Feb-2024 15:42:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TagExtrasImplementa" in /home/g0g5zk6aakb4/public_html/analyticstracking.php:1
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php(83): include_once()
+#1 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(82): include('/home/g0g5zk6aa...')
+#2 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(40): src\ControlerView\View->Renderizar()
+#3 /home/g0g5zk6aakb4/public_html/index.php(49): src\ControlerView\View::CriandoPagina()
+#4 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/analyticstracking.php on line 1
+[28-Feb-2024 15:42:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TagExtrasImplementa" in /home/g0g5zk6aakb4/public_html/analyticstracking.php:1
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php(83): include_once()
+#1 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(82): include('/home/g0g5zk6aa...')
+#2 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(40): src\ControlerView\View->Renderizar()
+#3 /home/g0g5zk6aakb4/public_html/index.php(49): src\ControlerView\View::CriandoPagina()
+#4 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/analyticstracking.php on line 1
+[28-Feb-2024 15:43:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TagExtrasImplementa" in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php:84
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(82): include()
+#1 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(40): src\ControlerView\View->Renderizar()
+#2 /home/g0g5zk6aakb4/public_html/index.php(49): src\ControlerView\View::CriandoPagina()
+#3 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php on line 84
+[28-Feb-2024 15:43:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TagExtrasImplementa" in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php:84
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(82): include()
+#1 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(40): src\ControlerView\View->Renderizar()
+#2 /home/g0g5zk6aakb4/public_html/index.php(49): src\ControlerView\View::CriandoPagina()
+#3 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php on line 84
+[28-Feb-2024 15:43:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TagExtrasImplementa" in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php:84
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(82): include()
+#1 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(40): src\ControlerView\View->Renderizar()
+#2 /home/g0g5zk6aakb4/public_html/index.php(49): src\ControlerView\View::CriandoPagina()
+#3 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php on line 84
+[28-Feb-2024 15:43:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TagExtrasImplementa" in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php:84
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(82): include()
+#1 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(40): src\ControlerView\View->Renderizar()
+#2 /home/g0g5zk6aakb4/public_html/index.php(49): src\ControlerView\View::CriandoPagina()
+#3 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php on line 84
+[28-Feb-2024 15:43:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TagExtrasImplementa" in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php:84
+Stack trace:
+#0 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(82): include()
+#1 /home/g0g5zk6aakb4/public_html/src/ControlerView/ViewControler.php(40): src\ControlerView\View->Renderizar()
+#2 /home/g0g5zk6aakb4/public_html/index.php(49): src\ControlerView\View::CriandoPagina()
+#3 {main}
+  thrown in /home/g0g5zk6aakb4/public_html/View/Layout/Cabecalho.php on line 84
+[01-Mar-2024 12:59:44 UTC] PHP Warning:  Undefined array key "Telefone" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 58
+[01-Mar-2024 12:59:44 UTC] PHP Warning:  Undefined array key "CPF" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 63
+[01-Mar-2024 15:22:51 UTC] PHP Warning:  Undefined array key "Telefone" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 58
+[01-Mar-2024 15:22:51 UTC] PHP Warning:  Undefined array key "CPF" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 63
+[01-Mar-2024 15:22:51 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 133
+[01-Mar-2024 15:31:13 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 133
+[01-Mar-2024 15:34:40 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 15:41:38 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 16:34:01 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 17:00:03 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 17:00:47 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 17:14:48 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 18:00:08 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 18:09:32 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 18:11:23 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 18:15:09 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 18:18:29 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 18:18:41 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 136
+[01-Mar-2024 18:40:03 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[01-Mar-2024 18:40:50 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[01-Mar-2024 18:42:46 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[01-Mar-2024 18:48:24 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[01-Mar-2024 18:54:01 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 140
+[01-Mar-2024 18:58:29 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 140
+[01-Mar-2024 19:31:11 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:31:11 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:34:35 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:34:35 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:34:35 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:35:28 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:35:28 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:35:28 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:35:34 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:35:34 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:35:34 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:35:36 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:35:36 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:35:36 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:36:40 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:36:40 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:36:40 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:39:48 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:39:48 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:39:48 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:41:08 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:41:08 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:41:08 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:41:11 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:41:11 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:41:11 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:41:12 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:41:12 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:41:12 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:42:16 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:42:16 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:42:16 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:42:16 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 579
+[01-Mar-2024 19:42:49 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 226
+[01-Mar-2024 19:42:49 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 253
+[01-Mar-2024 19:42:49 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 331
+[01-Mar-2024 19:42:50 UTC] PHP Warning:  Undefined variable $Whatsapplink in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 579
+[01-Mar-2024 20:39:36 UTC] PHP Warning:  Undefined array key "Telefone" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 58
+[01-Mar-2024 20:39:36 UTC] PHP Warning:  Undefined array key "CPF" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 63
+[01-Mar-2024 20:39:36 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[03-Mar-2024 20:59:56 UTC] PHP Warning:  Undefined array key "Telefone" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 58
+[03-Mar-2024 20:59:56 UTC] PHP Warning:  Undefined array key "CPF" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 63
+[03-Mar-2024 20:59:56 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[04-Mar-2024 13:04:26 UTC] PHP Warning:  Undefined array key "Telefone" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 58
+[04-Mar-2024 13:04:26 UTC] PHP Warning:  Undefined array key "CPF" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 63
+[04-Mar-2024 13:04:26 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[04-Mar-2024 13:43:58 UTC] PHP Warning:  Undefined array key "Telefone" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 58
+[04-Mar-2024 13:43:58 UTC] PHP Warning:  Undefined array key "CPF" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 63
+[04-Mar-2024 13:43:58 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
+[04-Mar-2024 14:04:05 UTC] PHP Warning:  Undefined array key "Telefone" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 58
+[04-Mar-2024 14:04:05 UTC] PHP Warning:  Undefined array key "CPF" in /home/g0g5zk6aakb4/public_html/Controler/prematricula/prematriculaControler.php on line 63
+[04-Mar-2024 14:04:05 UTC] PHP Warning:  Undefined array key "contato" in /home/g0g5zk6aakb4/public_html/View/Inicio.php on line 138
